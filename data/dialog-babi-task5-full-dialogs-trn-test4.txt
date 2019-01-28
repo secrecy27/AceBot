@@ -1,0 +1,849 @@
+good morning	hello where should it be
+in paris	i'm on it
+<SILENCE>	how many people would be in your party
+for six people please	ok let me look into some options for you
+<SILENCE>	api_call paris six
+actually i would prefer for two people	sure is there anything else to update
+instead could it be in madrid	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid two
+<SILENCE>	what do you think of this option: resto_madrid
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+it's perfect	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_madrid_phone
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+may i have a table in paris for six in a cheap price range	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call paris six
+actually i would prefer in bombay	sure is there anything else to update
+actually i would prefer for four people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+i love that	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_bombay_phone
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+in bombay for two please	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call bombay two
+actually i would prefer for four people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+let's do it	great let me do the reservation
+may i have the address of the restaurant	here it is resto_bombay_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+good morning	hello where should it be
+i'd like to book a table for two in london	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london two
+<SILENCE>	what do you think of this option: resto_london
+i love that	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_london_phone
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+hi	hello where should it be
+can you make a restaurant reservation in london in a expensive price range with british food	i'm on it
+<SILENCE>	how many people would be in your party
+for six people please	ok let me look into some options for you
+<SILENCE>	api_call london six
+instead could it be in madrid	sure is there anything else to update
+instead could it be for two	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid two
+<SILENCE>	what do you think of this option: resto_madrid
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+that looks great	great let me do the reservation
+do you have its phone number	here it is resto_madrid_phone
+may i have the address of the restaurant	here it is resto_madrid_address
+you rock	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+may i have a table in london a cheap price range for two	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london two
+instead could it be in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome two
+<SILENCE>	what do you think of this option: resto_rome
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+let's do it	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_rome_phone
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+i'd like to book a table for two in paris	i'm on it
+<SILENCE>	where should it be
+paris please	ok let me look into some options for you
+<SILENCE>	api_call paris two
+actually i would prefer in bombay	sure is there anything else to update
+instead could it be for four	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+i love that	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_bombay_phone
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+may i have a table in a cheap price range in madrid with french food	i'm on it
+<SILENCE>	how many people would be in your party
+for two please	ok let me look into some options for you
+<SILENCE>	api_call madrid two
+actually i would prefer in bombay	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay two
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+i love that	great let me do the reservation
+may i have the address of the restaurant	here it is resto_bombay_address
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+may i have a table for eight	i'm on it
+<SILENCE>	where should it be
+in rome	ok let me look into some options for you
+<SILENCE>	api_call rome eight
+instead could it be in madrid	sure is there anything else to update
+actually i would prefer for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid six
+<SILENCE>	what do you think of this option: resto_madrid
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+let's do it	great let me do the reservation
+do you have its address	here it is resto_madrid_address
+what is the phone number of the restaurant	here it is resto_madrid_phone
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+can you book a table with indian food in madrid in a expensive price range	i'm on it
+<SILENCE>	how many people would be in your party
+for four please	ok let me look into some options for you
+<SILENCE>	api_call madrid four
+<SILENCE>	what do you think of this option: resto_madrid
+that looks great	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_madrid_phone
+do you have its address	here it is resto_madrid_address
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+may i have a table for two with italian food in a moderate price range	i'm on it
+<SILENCE>	where should it be
+in bombay	ok let me look into some options for you
+<SILENCE>	api_call bombay two
+instead could it be in paris	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris two
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+that looks great	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_paris_phone
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hi	hello where should it be
+i'd like to book a table for six people in a expensive price range with british food	i'm on it
+<SILENCE>	where should it be
+in london	ok let me look into some options for you
+<SILENCE>	api_call london six
+actually i would prefer for four	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call london four
+<SILENCE>	what do you think of this option: resto_london
+let's do it	great let me do the reservation
+can you provide the address	here it is resto_london_address
+do you have its phone number	here it is resto_london_phone
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+i'd like to book a table in a expensive price range with french food in london	i'm on it
+<SILENCE>	how many people would be in your party
+for six people please	ok let me look into some options for you
+<SILENCE>	api_call london six
+actually i would prefer in paris	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris six
+<SILENCE>	what do you think of this option: resto_paris
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+that looks great	great let me do the reservation
+may i have the address of the restaurant	here it is resto_paris_address
+may i have the phone number of the restaurant	here it is resto_paris_phone
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+can you book a table in a cheap price range for two in madrid	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call madrid two
+instead could it be for six people	sure is there anything else to update
+actually i would prefer in paris	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris six
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+i love that	great let me do the reservation
+can you provide the address	here it is resto_paris_address
+do you have its phone number	here it is resto_paris_phone
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+can you make a restaurant reservation for four	i'm on it
+<SILENCE>	where should it be
+london please	ok let me look into some options for you
+<SILENCE>	api_call london four
+instead could it be for two people	sure is there anything else to update
+instead could it be in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome two
+<SILENCE>	what do you think of this option: resto_rome
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+let's do it	great let me do the reservation
+may i have the address of the restaurant	here it is resto_rome_address
+may i have the phone number of the restaurant	here it is resto_rome_phone
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+i'd like to book a table for eight in rome	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call rome eight
+actually i would prefer in madrid	sure is there anything else to update
+instead could it be for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid six
+<SILENCE>	what do you think of this option: resto_madrid
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+it's perfect	great let me do the reservation
+may i have the address of the restaurant	here it is resto_madrid_address
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+good morning	hello where should it be
+i'd like to book a table in paris for four	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call paris four
+actually i would prefer for two people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris two
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+let's do it	great let me do the reservation
+do you have its phone number	here it is resto_paris_phone
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+good morning	hello where should it be
+in bombay	how many people would be in your party
+we will be two	ok let me look into some options for you
+<SILENCE>	api_call bombay two
+actually i would prefer for six	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay six
+<SILENCE>	what do you think of this option: resto_bombay
+let's do it	great let me do the reservation
+can you provide the address	here it is resto_bombay_address
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+can you make a restaurant reservation for eight people with spanish food in madrid	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call madrid eight
+actually i would prefer for four people	sure is there anything else to update
+instead could it be in bombay	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+that looks great	great let me do the reservation
+can you provide the address	here it is resto_bombay_address
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+can you make a restaurant reservation in a moderate price range in madrid	i'm on it
+<SILENCE>	how many people would be in your party
+for two please	ok let me look into some options for you
+<SILENCE>	api_call madrid two
+instead could it be in paris	sure is there anything else to update
+instead could it be for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris six
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+that looks great	great let me do the reservation
+do you have its address	here it is resto_paris_address
+may i have the phone number of the restaurant	here it is resto_paris_phone
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+london please	how many people would be in your party
+for six people please	ok let me look into some options for you
+<SILENCE>	api_call london six
+actually i would prefer for two	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call london two
+<SILENCE>	what do you think of this option: resto_london
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_london
+let's do it	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_london_phone
+may i have the address of the restaurant	here it is resto_london_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+may i have a table for two people in rome	ok let me look into some options for you
+<SILENCE>	api_call rome two
+instead could it be in bombay	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay two
+<SILENCE>	what do you think of this option: resto_bombay
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+it's perfect	great let me do the reservation
+can you provide the address	here it is resto_bombay_address
+what is the phone number of the restaurant	here it is resto_bombay_phone
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+can you make a restaurant reservation in paris for four	i'm on it
+<SILENCE>	api_call paris four
+instead could it be for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris six
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+let's do it	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_paris_phone
+you rock	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+can you make a restaurant reservation in london for eight	i'm on it
+<SILENCE>	api_call london eight
+instead could it be for two people	sure is there anything else to update
+actually i would prefer in paris	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris two
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+let's do it	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_paris_phone
+may i have the address of the restaurant	here it is resto_paris_address
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+can you book a table in a cheap price range for four with british food in madrid	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call madrid four
+actually i would prefer in bombay	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+it's perfect	great let me do the reservation
+may i have the address of the restaurant	here it is resto_bombay_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+bombay please	i'm on it
+<SILENCE>	how many people would be in your party
+i'd like to book a table for four people	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+it's perfect	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_bombay_phone
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+i'd like to book a table for four people in london	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london four
+actually i would prefer for two	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call london two
+<SILENCE>	what do you think of this option: resto_london
+that looks great	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_london_phone
+can you provide the address	here it is resto_london_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+good morning	hello where should it be
+can you make a restaurant reservation with indian food for eight in bombay	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call bombay eight
+actually i would prefer in paris	sure is there anything else to update
+instead could it be for four people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris four
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+let's do it	great let me do the reservation
+do you have its address	here it is resto_paris_address
+may i have the phone number of the restaurant	here it is resto_paris_phone
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+good morning	hello where should it be
+can you make a restaurant reservation in a moderate price range in london with spanish cuisine	i'm on it
+<SILENCE>	how many people would be in your party
+for four please	ok let me look into some options for you
+<SILENCE>	api_call london four
+actually i would prefer in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome four
+<SILENCE>	what do you think of this option: resto_rome
+that looks great	great let me do the reservation
+may i have the address of the restaurant	here it is resto_rome_address
+what is the phone number of the restaurant	here it is resto_rome_phone
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+good morning	hello where should it be
+can you book a table in london for four with french cuisine	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london four
+instead could it be in paris	sure is there anything else to update
+actually i would prefer for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris six
+<SILENCE>	what do you think of this option: resto_paris
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+let's do it	great let me do the reservation
+may i have the address of the restaurant	here it is resto_paris_address
+you rock	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+in madrid	i'm on it
+<SILENCE>	how many people would be in your party
+we will be four	ok let me look into some options for you
+<SILENCE>	api_call madrid four
+actually i would prefer for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid six
+<SILENCE>	what do you think of this option: resto_madrid
+that looks great	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_madrid_phone
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+paris please	i'm on it
+<SILENCE>	how many people would be in your party
+we will be two	ok let me look into some options for you
+<SILENCE>	api_call paris two
+<SILENCE>	what do you think of this option: resto_paris
+that looks great	great let me do the reservation
+do you have its address	here it is resto_paris_address
+do you have its phone number	here it is resto_paris_phone
+you rock	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+may i have a table for two people in london	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london two
+actually i would prefer in paris	sure is there anything else to update
+instead could it be for four	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris four
+<SILENCE>	what do you think of this option: resto_paris
+let's do it	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_paris_phone
+do you have its address	here it is resto_paris_address
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+i'd like to book a table in london for eight in a moderate price range	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london eight
+instead could it be in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome eight
+<SILENCE>	what do you think of this option: resto_rome
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+i love that	great let me do the reservation
+may i have the address of the restaurant	here it is resto_rome_address
+may i have the phone number of the restaurant	here it is resto_rome_phone
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+can you book a table in london	i'm on it
+<SILENCE>	how many people would be in your party
+we will be four	ok let me look into some options for you
+<SILENCE>	api_call london four
+instead could it be for two	sure is there anything else to update
+actually i would prefer in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome two
+<SILENCE>	what do you think of this option: resto_rome
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+i love that	great let me do the reservation
+may i have the address of the restaurant	here it is resto_rome_address
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+may i have a table for six in london	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call london six
+instead could it be in bombay	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay six
+<SILENCE>	what do you think of this option: resto_bombay
+let's do it	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_bombay_phone
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+can you book a table with italian cuisine in a expensive price range in london	i'm on it
+<SILENCE>	how many people would be in your party
+for two people please	ok let me look into some options for you
+<SILENCE>	api_call london two
+actually i would prefer in bombay	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay two
+<SILENCE>	what do you think of this option: resto_bombay
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+let's do it	great let me do the reservation
+may i have the address of the restaurant	here it is resto_bombay_address
+you rock	is there anything i can help you with
+no thank you	you're welcome
+
+hi	hello where should it be
+can you make a restaurant reservation in a cheap price range with spanish food in london	i'm on it
+<SILENCE>	how many people would be in your party
+for two please	ok let me look into some options for you
+<SILENCE>	api_call london two
+instead could it be in paris	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris two
+<SILENCE>	what do you think of this option: resto_paris
+that looks great	great let me do the reservation
+may i have the address of the restaurant	here it is resto_paris_address
+do you have its phone number	here it is resto_paris_phone
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+in bombay	i'm on it
+<SILENCE>	how many people would be in your party
+we will be four	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+actually i would prefer in paris	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call paris four
+<SILENCE>	what do you think of this option: resto_paris
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_paris
+it's perfect	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_paris_phone
+may i have the address of the restaurant	here it is resto_paris_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+hi	hello where should it be
+i'd like to book a table with italian food in madrid	i'm on it
+<SILENCE>	how many people would be in your party
+we will be four	ok let me look into some options for you
+<SILENCE>	api_call madrid four
+instead could it be for eight people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid eight
+<SILENCE>	what do you think of this option: resto_madrid
+let's do it	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_madrid_phone
+may i have the address of the restaurant	here it is resto_madrid_address
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+may i have a table for eight in madrid in a cheap price range	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call madrid eight
+instead could it be for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid six
+<SILENCE>	what do you think of this option: resto_madrid
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+let's do it	great let me do the reservation
+do you have its phone number	here it is resto_madrid_phone
+may i have the address of the restaurant	here it is resto_madrid_address
+you rock	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+can you book a table with french food for eight people in paris	i'm on it
+<SILENCE>	ok let me look into some options for you
+<SILENCE>	api_call paris eight
+instead could it be in bombay	sure is there anything else to update
+instead could it be for six people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay six
+<SILENCE>	what do you think of this option: resto_bombay
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+that looks great	great let me do the reservation
+do you have its address	here it is resto_bombay_address
+what is the phone number of the restaurant	here it is resto_bombay_phone
+you rock	is there anything i can help you with
+no thank you	you're welcome
+
+hi	hello where should it be
+may i have a table with french cuisine in london	i'm on it
+<SILENCE>	how many people would be in your party
+for eight please	ok let me look into some options for you
+<SILENCE>	api_call london eight
+instead could it be for two people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call london two
+<SILENCE>	what do you think of this option: resto_london
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_london
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_london
+i love that	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_london_phone
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+london please	i'm on it
+<SILENCE>	how many people would be in your party
+we will be eight	ok let me look into some options for you
+<SILENCE>	api_call london eight
+<SILENCE>	what do you think of this option: resto_london
+i love that	great let me do the reservation
+do you have its address	here it is resto_london_address
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+can you make a restaurant reservation in a cheap price range in bombay with french food	i'm on it
+<SILENCE>	how many people would be in your party
+for six people please	ok let me look into some options for you
+<SILENCE>	api_call bombay six
+<SILENCE>	what do you think of this option: resto_bombay
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_bombay
+it's perfect	great let me do the reservation
+can you provide the address	here it is resto_bombay_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+may i have a table with indian food for two people in bombay	i'm on it
+<SILENCE>	api_call bombay two
+<SILENCE>	what do you think of this option: resto_bombay
+that looks great	great let me do the reservation
+do you have its address	here it is resto_bombay_address
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hi	hello where should it be
+in madrid	i'm on it
+<SILENCE>	how many people would be in your party
+we will be six	ok let me look into some options for you
+<SILENCE>	api_call madrid six
+instead could it be for four	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid four
+<SILENCE>	what do you think of this option: resto_madrid
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+it's perfect	great let me do the reservation
+do you have its phone number	here it is resto_madrid_phone
+can you provide the address	here it is resto_madrid_address
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hello	hello where should it be
+can you make a restaurant reservation in paris with indian cuisine	i'm on it
+<SILENCE>	how many people would be in your party
+for four please	ok let me look into some options for you
+<SILENCE>	api_call paris four
+<SILENCE>	what do you think of this option: resto_paris
+it's perfect	great let me do the reservation
+do you have its phone number	here it is resto_paris_phone
+may i have the address of the restaurant	here it is resto_paris_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+i'd like to book a table in madrid for eight people with french food	i'm on it
+<SILENCE>	api_call madrid eight
+actually i would prefer for four people	sure is there anything else to update
+instead could it be in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome four
+<SILENCE>	what do you think of this option: resto_rome
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+i love that	great let me do the reservation
+may i have the phone number of the restaurant	here it is resto_rome_phone
+thank you	is there anything i can help you with
+no thank you	you're welcome
+
+good morning	hello where should it be
+madrid please	i'm on it
+<SILENCE>	how many people would be in your party
+for four people please	ok let me look into some options for you
+<SILENCE>	api_call madrid four
+actually i would prefer in rome	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call rome four
+<SILENCE>	what do you think of this option: resto_rome
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+no i don't like that	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_rome
+let's do it	great let me do the reservation
+may i have the address of the restaurant	here it is resto_rome_address
+thanks	is there anything i can help you with
+no thank you	you're welcome
+
+hi	hello where should it be
+may i have a table in london in a moderate price range	i'm on it
+<SILENCE>	how many people would be in your party
+for two people please	ok let me look into some options for you
+<SILENCE>	api_call london two
+actually i would prefer in bombay	sure is there anything else to update
+actually i would prefer for four people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call bombay four
+<SILENCE>	what do you think of this option: resto_bombay
+that looks great	great let me do the reservation
+can you provide the address	here it is resto_bombay_address
+thanks	is there anything i can help you with
+no thanks	you're welcome
+
+hello	hello where should it be
+i'd like to book a table for eight in madrid	i'm on it
+<SILENCE>	api_call madrid eight
+actually i would prefer for two people	sure is there anything else to update
+no	ok let me look into some options for you
+<SILENCE>	api_call madrid two
+<SILENCE>	what do you think of this option: resto_madrid
+no this does not work for me	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+do you have something else	sure let me find an other option for you
+<SILENCE>	what do you think of this option: resto_madrid
+let's do it	great let me do the reservation
+what is the phone number of the restaurant	here it is resto_madrid_phone
+may i have the address of the restaurant	here it is resto_madrid_address
+thank you	is there anything i can help you with
+no thanks	you're welcome
